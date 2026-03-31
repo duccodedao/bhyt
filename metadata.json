@@ -1,0 +1,5 @@
+{
+  "name": "Tra Cứu Hoàn Trả BHYT",
+  "description": "Ứng dụng tra cứu số tiền hoàn trả BHYT bằng CCCD. Quản trị viên có thể nhập dữ liệu từ file Excel.",
+  "requestFramePermissions": []
+}
